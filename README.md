@@ -1,5 +1,3 @@
-## Hi there! i'm Herianto Saogo 👋
-
 ![herianto saogo](img/github-header-image.png)
 
 ##### 🌐 Socials:
