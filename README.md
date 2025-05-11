@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there! i'm Herianto Saogo 👋
 
 <!--
 **heriantosaogo/heriantosaogo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 I’m currently learning [**Laravel**](http://laravel.com) framework
+
+![kambek](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzdwMnVwdWljdmVmdjM1OWFiZXk3MXZxa2VuejRhOTBtczFwajcydyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qAWKWyF3UsBX2HEpnA/giphy.gif)
