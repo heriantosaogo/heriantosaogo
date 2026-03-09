@@ -33,5 +33,7 @@
 ###
 
 <img src="https://raw.githubusercontent.com/heriantosaogo/heriantosaogo/output/snake.svg" alt="Snake animation" />
+## My Contribution snake
+![Contribution snake example](https://github.com/heriantosaogo/heriantosaogo/output/github-contribution-grid-snake.svg)
 
 ###
