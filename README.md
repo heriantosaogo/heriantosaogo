@@ -14,7 +14,18 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=heriantosaogo&theme=algolia&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=heriantosaogo&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-![JavaScript Animation](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDRsZWttMXYxcGRqZm1udzlhenV5cTBvb3FpY2t6d2pqMDd6aTg4eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xsCevAab5ufj37BeGR/giphy.gif)
+<div align="center">
+  <table border="0">
+    <tr>
+      <!-- KOLOM KIRI: GIF JavaScript Animation -->
+      <td width="50%" align="center">
+        <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDRsZWttMXYxcGRqZm1udzlhenV5cTBvb3FpY2t6d2pqMDd6aTg4eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xsCevAab5ufj37BeGR/giphy.gif" width="100%" alt="JavaScript Animation" />
+      </td>
+      <td width="50%" align="center">
+        <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTY2cWRxOWw0ZHJiNHF1azltc2owazZmYXVtcjQ1a3ZwNG05eXZ6dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/doXBzUFJRxpaUbuaqz/giphy.gif" width="100%" alt="JavaScript Animation" />
+      </td>
+  </table>
+</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/heriantosaogo/heriantosaogo/output/pacman-contribution-graph-dark.svg">
