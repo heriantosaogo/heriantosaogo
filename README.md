@@ -14,15 +14,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=heriantosaogo&theme=algolia&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=heriantosaogo&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-##### 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=heriantosaogo&theme=algolia&no-frame=false&no-bg=true&margin-w=4)
-
-##### 🔝 Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=heriantosaogo&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-[![](https://visitcount.itsvg.in/api?id=heriantosaogo&icon=0&color=0)](https://visitcount.itsvg.in)
+![JavaScript Animation](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDRsZWttMXYxcGRqZm1udzlhenV5cTBvb3FpY2t6d2pqMDd6aTg4eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xsCevAab5ufj37BeGR/giphy.gif)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/heriantosaogo/heriantosaogo/output/pacman-contribution-graph-dark.svg">
