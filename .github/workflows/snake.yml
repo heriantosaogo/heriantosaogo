@@ -1,11 +1,9 @@
-name: Generate snake animation
+name: Generate Snake and Pacman
 
 on:
-  schedule: # execute every 12 hours
-    - cron: "* */12 * * *"
-
+  schedule:
+    - cron: "0 */12 * * *" # Jalan setiap 12 jam
   workflow_dispatch:
-
   push:
     branches:
       - main
@@ -18,14 +16,25 @@ jobs:
     timeout-minutes: 5
 
     steps:
+      # --- 1. GENERATE SNAKE ANIMATION ---
       - name: generate snake.svg
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          # Bagian ini diubah untuk mengubah ular jadi kuning (Pacman)
           outputs: |
-            dist/snake.svg?color_snake=yellow&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
-      - name: push snake.svg to the output branch
+            dist/snake.svg
+            dist/snake-dark.svg?palette=github-dark
+
+      # --- 2. GENERATE PACMAN STYLE (Using Snake Action with Yellow Color) ---
+      - name: generate pacman.svg
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/pacman.svg?color_snake=yellow&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+
+      # --- 3. PUSH BOTH TO OUTPUT BRANCH ---
+      - name: push files to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
