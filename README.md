@@ -27,15 +27,22 @@
   </table>
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/heriantosaogo/heriantosaogo/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/heriantosaogo/heriantosaogo/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/heriantosaogo/heriantosaogo/output/pacman-contribution-graph.svg">
-</picture>
+<div align="center">
+  <table border="0">
+    <tr>
+      <!-- KOLOM KIRI: Snake Animation -->
+      <td width="50%" align="center">
+        <img src="https://raw.githubusercontent.com/heriantosaogo/heriantosaogo/output/snake.svg" width="100%" alt="Snake animation" />
+      </td>
+      <!-- KOLOM KANAN: Pacman Animation -->
+      <td width="50%" align="center">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/heriantosaogo/heriantosaogo/output/pacman-contribution-graph-dark.svg">
+          <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/heriantosaogo/heriantosaogo/output/pacman-contribution-graph.svg">
+          <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/heriantosaogo/heriantosaogo/output/pacman-contribution-graph.svg" width="100%">
+        </picture>
+      </td>
+    </tr>
+  </table>
+</div>
 
-
-###
-
-<img src="https://raw.githubusercontent.com/heriantosaogo/heriantosaogo/output/snake.svg" alt="Snake animation" />
-
-###
