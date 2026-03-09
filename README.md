@@ -22,29 +22,6 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/heriantosaogo/heriantosaogo/output/pacman-contribution-graph.svg">
 </picture>
 
-<div align="center">
-  <table border="0">
-    <tr>
-      <!-- KOLOM KIRI: Gambar JavaScript Animasi -->
-      <td width="50%" align="center">
-        <h3>💻 My Tech Stack</h3>
-        <img src="https://media.giphy.com" width="100%" alt="JS Animation" />
-      </td>
-      
-      <!-- KOLOM KANAN: Grafik Kontribusi Snake/Pacman -->
-      <td width="50%" align="center">
-        <h3>🐍 My Contributions</h3>
-        <img src="https://raw.githubusercontent.com" width="100%" alt="Snake animation" />
-        <br><br>
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com">
-          <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com">
-          <img alt="pacman contribution graph" src="https://raw.githubusercontent.com" width="100%">
-        </picture>
-      </td>
-    </tr>
-  </table>
-</div>
 
 ###
 
